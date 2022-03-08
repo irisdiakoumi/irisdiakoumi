@@ -20,11 +20,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="irisdiakoumi | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="irisdiakoumi | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
                                                                                                                                                                      
 <br>
 
-[twitter]: https://twitter.com/irisdiakoumi
 [linkedin]: https://www.linkedin.com/in/irisdiakoumi/
+[twitter]: https://twitter.com/irisdiakoumi
+
 
