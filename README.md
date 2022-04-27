@@ -1,8 +1,8 @@
 ### Hi there, I'm Iris! 👋
 
 - 🤓 A Computer Engineer with a few M.Eng. degree loose ends. Previous experience in GIS, Web Development, CX & Technical Translation.
-- 🎯 2022 Goals: Get into Software Testing (Manual & Automated)
-- 💻 Projects: Quality Assurance blog on the way!
+- 🎯 2022 Goals:
+- 💻 Projects: 
 - ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
 - 😄 Hobbies: Board Game Marathons, Swimming, Cooking
 
