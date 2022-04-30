@@ -1,10 +1,9 @@
 ### Hi there, I'm Iris! 👋
 
-- 🤓 A Computer Engineer with a few M.Eng. degree loose ends. Previous experience in GIS, Web Development, CX & Technical Translation.
-- 🎯 2022 Goals:
-- 💻 Projects: 
-- ⚡ Fun fact: My dad gave me the nickname Ιρίδιο-Iridium and I only realized it was a chemical element some years ago!
-- 😄 Hobbies: Board Game Marathons, Swimming, Cooking
+- 🤓 A Computer Engineer with a few M.Eng. degree loose ends. Previous experience in GIS & Web Development, WordPress, CX & Technical Translation.
+- 🎯 2022 Goals: Going Full-Stack! Currently playing with C# and ASP.NET Core. 
+- 💻 Projects: My technical blog and portfolio are aaaaalmost there! BRB. 
+- ⏳ Hobbies: Board Game Marathons, Swimming, Cooking
 
 ### Languages and Tools:
 <p>
@@ -21,8 +20,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="irisdiakoumi | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="Iris Diakoumi | LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/adbac7" />][linkedin] 
+[<img align="left" alt="irisdiakoumi | Twitter" width="20px" src="https://simpleicons.now.sh/twitter/adbac7Goi" />][twitter] 
                                                                                                                                                                      
 <br>
 
