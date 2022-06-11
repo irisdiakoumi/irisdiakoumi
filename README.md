@@ -6,19 +6,6 @@
 - ⏳ Hobbies: Board Game Marathons, Swimming, Cooking for Friends
 
 
-### Connect with me:
-
-[![](https://vistr.dev/badge?repo=irisdiakoumi.irisdiakoumi&corners=square)](https://github.com/irisdiakoumi/vistr.dev)
-[![](https://img.shields.io/badge/-@irisdiakoumi-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/irisdiakoumi)
-[![](https://img.shields.io/badge/-Iris%20Diakoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irisdiakoumi/)](https://www.linkedin.com/in/irisdiakoumi/)
-
-
-### Some work:
-[Blog](https://blog.iriscodes.net)
-
-Portfolio - 🚧 Under construction 
-
-
 
 ### Languages and Tools:
 <p>
@@ -32,12 +19,18 @@ Portfolio - 🚧 Under construction
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
 </p>
 
-### 𝗦𝘁𝗮𝘁𝘀
 
+### Some work:
+[Blog](https://blog.iriscodes.net)  &  Portfolio ( 🚧 Under construction )
+
+
+### Connect with me:
+[![](https://vistr.dev/badge?repo=irisdiakoumi.irisdiakoumi&corners=square)](https://github.com/irisdiakoumi/vistr.dev)
+[![](https://img.shields.io/badge/-@irisdiakoumi-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/irisdiakoumi)
+[![](https://img.shields.io/badge/-Iris%20Diakoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irisdiakoumi/)](https://www.linkedin.com/in/irisdiakoumi/)
+[![](https://img.shields.io/badge/-@irisdiakoumi-%23181717?style=flat-square&logo=github)](https://github.com/irisdiakoumi)
+
+
+### Stats
 ![Iris Diakoumi's github stats](https://github-readme-stats.vercel.app/api?username=irisdiakoumi&show_icons=true&theme=dracula)
-
-
-
-
-
 
