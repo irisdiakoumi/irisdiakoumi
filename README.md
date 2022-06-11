@@ -1,8 +1,8 @@
 ### Hi there, I'm Iris! 👋
 
-- 🤓 A Computer Engineer with a few M.Eng. degree loose ends. Previous experience in GIS & Web Development, WordPress, CX & Technical Translation.
-- 🎯 2022 Goals: Going Full-Stack! Currently playing with C# and ASP.NET Core. 
-- 💻 Projects: Working on some projects for my portfolio! BRB. 
+- 👩🏻‍💻 Front-End Developer (HTML, CSS, Javascript, React)
+- ⏪ Previous experience with GIS, Wordpress, CX, and Technical Translation
+- 🎯 2022 Goals: Going Full-Stack! Currently playing with C# and ASP.NET Core
 - ⏳ Hobbies: Board Game Marathons, Swimming, Cooking for Friends
 
 
@@ -11,6 +11,13 @@
 [![](https://vistr.dev/badge?repo=irisdiakoumi.irisdiakoumi&corners=square)](https://github.com/irisdiakoumi/vistr.dev)
 [![](https://img.shields.io/badge/-@irisdiakoumi-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/irisdiakoumi)
 [![](https://img.shields.io/badge/-Iris%20Diakoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irisdiakoumi/)](https://www.linkedin.com/in/irisdiakoumi/)
+
+
+### Some work:
+[Blog](https://blog.iriscodes.net)
+
+Portfolio - 🚧 Under construction 
+
 
 
 ### Languages and Tools:
