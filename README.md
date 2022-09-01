@@ -1,8 +1,7 @@
 ### Hi there, I'm Iris! 👋
 
-- 👩🏻‍💻 Front-End Developer (HTML, CSS, Javascript, React)
-- ⏪ Previous experience with GIS, Wordpress, CX, and Technical Translation
-- 🎯 2022 Goals: Going Full-Stack! Currently playing with C# and ASP.NET Core
+- 👩🏻‍💻 Delving into Testing Automation practising my skills in UI , Performance and API Testing (Selenium, Postman, TestNG, REST Assured)
+- ⏪ Previous experience with HTML, CSS, Javascript, React, GIS, Wordpress, CX, and Technical Translation (It's been a journey!)
 - ⏳ Hobbies: Board Game Marathons, Swimming, Cooking for Friends
 
 
