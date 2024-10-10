@@ -1,6 +1,6 @@
 ### Hi there, I'm Iris! 👋
 
-- 👩🏻‍💻 Delving into Testing Automation practising my skills in UI , Performance and API Testing (Selenium, Postman, TestNG, REST Assured)
+- 👩🏻‍💻 Currently looking for project ideas, practising skills!
 - ⏪ Previous experience with HTML, CSS, Javascript, React, GIS, Wordpress, CX, and Technical Translation (It's been a journey!)
 - ⏳ Hobbies: Board Game Marathons, Swimming, Cooking for Friends
 
@@ -12,9 +12,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" alt="React">
-<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" alt="C#">
-<img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=flat" alt=".NET">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL">  
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
 </p>
 
